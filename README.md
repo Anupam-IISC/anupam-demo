@@ -1,3 +1,3 @@
 # anupam-demo
-Generalised bur concept
+Generalised bur concept.
 Author -Anupam Porwal
